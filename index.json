@@ -10,7 +10,8 @@
   },
   {
     "label": "op.gg-urf",
-    "value": "op.gg-urf"
+    "value": "op.gg-urf",
+    "isURF": true
   },
   {
     "label": "lolalytics.com",
