@@ -1,5 +1,14 @@
 [
   {
+    "label": "u.gg",
+    "value": "u.gg"
+  },
+  {
+    "label": "u.gg-aram",
+    "value": "u.gg-aram",
+    "isAram": true
+  },
+  {
     "label": "op.gg",
     "value": "op.gg"
   },
