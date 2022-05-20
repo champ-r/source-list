@@ -41,6 +41,11 @@
     "isAram": true
   },
   {
+    "label": "lolalytics.com-urf",
+    "value": "lolalytics-urf",
+    "isURF": true
+  },
+  {
     "label": "murderbridge.com",
     "value": "murderbridge",
     "isAram": true
