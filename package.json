@@ -7,15 +7,6 @@
   "private": false,
   "sources": [
     {
-      "label": "champion.gg",
-      "value": "champion.gg"
-    },
-    {
-      "label": "champion.gg-aram",
-      "value": "champion.gg-aram",
-      "isAram": true
-    },
-    {
       "label": "u.gg",
       "value": "u.gg"
     },
